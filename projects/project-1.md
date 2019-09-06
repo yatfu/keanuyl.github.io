@@ -14,7 +14,7 @@ labels:
 summary: My group created a point-and-click adventure game in Unity that focuses on telling the ancient stories of Hawaiian akua, with a sci-fi twist.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/HeAuHou2.jpg">
   <img class="ui image" src="../images/HeAuHou1.png">
   <img class="ui image" src="../images/HeAuHou4.png">
