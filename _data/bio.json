@@ -2,7 +2,7 @@
   "basics": {
     "name": "Keanu Lagundimao",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/headshot1.png",
+    "picture": "https://techfolios.github.io/images/headshot1.png",
     "email": "keanuyl@hawaii.edu",
     "phone": "808-369-6086",
     "website": "https://yatfu.github.io",
@@ -23,35 +23,33 @@
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/yatfu"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      //{
+      //  "network": "twitter",
+      //  "username": "mollymal",
+      //  "url": "http://twitter.com/changeme"
+      //},
+      //{
+      //  "network": "instagram",
+      //  "username": "molly",
+      //  "url": "http://instagram.com/changeme"
+      //}
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "game development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "UX Design",
       "keywords": [
       ]
     }
@@ -62,11 +60,8 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,17 +69,15 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
@@ -94,72 +87,46 @@
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+    //{
+    //  "company": "UH Manoa Board of Publications",
+    //  "position": "Web Developer",
+    //  "website": "",
+    //  "startDate": "2015-08-01",
+    //  "endDate": "Present",
+    //  "summary": "Head of online presence for Ka Leo",
+    //  "highlights": [
+    //    "Maintain, update, and oversee official college newspaper website",
+    //    "Drive, design and build student-community projects for UH Manoa"
+    //  ]
+    //},
+    //{
+    //  "company": "UH Information Technology Services",
+    //  "position": "Help Desk Consultant",
+    //  "website": "http://www.hawaii.edu/its/",
+    //  "startDate": "2015-01-01",
+    //  "endDate": "2016-03-15",
+    //  "summary": "",
+    //  "highlights": [
+    //    "Troubleshoot software, hardware and networking issues over the phone",
+    //    "Answer phone and email responses to the ITS Help Desk"
+    //  ]
+    //}
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+    //{
+    //  "organization": "Center for Renewable Energy and Island Sustainability",
+    //  "website": "http://manoa.hawaii.edu/reis",
+    //  "position": "Software Developer",
+    //  "startDate": "2016-01-01",
+    //  "endDate": "Present",
+    //  "summary": "Lead developer for weather sensing project",
+    //  "highlights": [
+    //    "Design firmware for distributed weather sensor network",
+    //    "Maintain custom data collection and storage infrastructure"
+    //  ]
+    //},
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  "awards": [],
   "references": [
     {
       "name": "Available upon request",
