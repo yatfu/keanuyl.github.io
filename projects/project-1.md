@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/HeAuHou.png
 title: He Au Hou
 permalink: projects/HeAuHou
 # All dates must be YYYY-MM-DD format!
