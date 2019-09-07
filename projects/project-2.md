@@ -2,24 +2,22 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Forever
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - FL Studio 20
+  - Audacity
+  - Splice
+summary: A future-bass EDM track based on the artist Illenium.
 ---
+[Link to Audio File](https://soundcloud.com/keanu-lagundimao/yatfu-forever)
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Forever is a EDM track that I made during my leisure time. The purpose of this project was to learn and understand the fundamentals of EDM. These fundamentals included, but aren't limited to: basic chord theory, beat-making, bass-treble balance, vocal editing, and composition. I chose Illenium to base this track on because I listen to a lot of his music and he is my favorite future bass artist. I also wanted to focus more on honing my technical skills for this project than my creativity, given that this was my first time using the software, FL Studio.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+FL Studio is an audio editor used by many professionals to produce songs, transform audio clips, and create soundscapes. My project only used a few of the tools it had to offer, which included synthesizers, beat makers, equalizers, effects, and mixers.
+
+I also used an audio sample site, called Splice, to gather sounds of drums, piano, guitar, and vocals.
+
+This project was a very good exercise which helped me get more comfortable with the software. I learned how to be more efficient when producing sounds, and am able to be more creative with other projects following this one.
