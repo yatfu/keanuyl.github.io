@@ -17,13 +17,17 @@ summary: My group created a point-and-click adventure game in Unity that focuses
 <div class="ui large rounded images">
   <img class="ui image" src="../images/HeAuHou2.jpg">
   <img class="ui image" src="../images/HeAuHou1.png">
-  <img class="ui image" src="../images/HeAuHou4.PNG">
 </div>
+
 He Au Hou is a project of the Initiative for Indigenous Futures (IIF) Na 'Anae Mahiki, a collaboration of Kamehameha Schools, Concordia University of Montreal, and chosen participants from all across Hawai'i. Within a three-week period, our team were responsible for coming up with and creating a game with a focus on Hawaiian culture/storytelling. Along with brainstorming ideas, finalizing a theme/story, and creating the game, we also had to learn the software required, which included a 3D creation suite (Blender), game engine (Unity), audio editor (Audacity), and image editor (Photoshop).
 
 Our final product, He Au Hou, is a 3D adventure game that focuses on storytelling and star navigation, two fundamental aspects of Hawaiian culture. In the game, you play as a space pilot trying to find your sister, lost in space. Along the way, you encounter Hawaiian gods and dieties and have to solve their puzzles. 
 
 For this project, I was on the 3D art team, who was responsible for creating concept art, critiquing and dicussing final concepts, modeling, texturing, rigging, and animating game models. This task was very labor-intensive, considering both the time it took to create a quality model, and the amount of models that needed to be created. One of my tasks included a representation of Kamapua'a, a pig demigod. The final model included a walk, idle, and enrage animation.
+
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/HeAuHou4.PNG">
+</div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
