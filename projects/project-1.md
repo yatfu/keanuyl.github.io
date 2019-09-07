@@ -11,7 +11,7 @@ labels:
   - Unity
   - C++
   - Game Development
-summary: My group created a point-and-click adventure game in Unity that focuses on telling the ancient stories of Hawaiian akua, with a sci-fi twist.
+summary: A point-and-click adventure game in Unity that focuses on telling the ancient stories of Hawaiian akua, with a sci-fi twist.
 ---
 
 <div class="ui large rounded images">
