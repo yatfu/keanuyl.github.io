@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ForeverScreenshot1.PNG
 title: Forever
-permalink: projects/forever
+permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-01
 labels:
