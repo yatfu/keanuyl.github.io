@@ -20,7 +20,7 @@ summary: My group created a point-and-click adventure game in Unity that focuses
   <img class="ui image" src="../images/HeAuHou1.png">
 </div>
 
-He Au Hou is a project of the Initiative for Indigenous Futures (IIF) Na 'Anae Mahiki, a collaboration of Kamehameha Schools, Concordia University of Montreal, and chosen participants from all across Hawai'i. Within a three-week period, our team were responsible for coming up with and creating a game with a focus on Hawaiian culture/storytelling. Along with brainstorming ideas, finalizing a theme/story, and creating the game, we also had to learn the software required, which included a 3D creation suite (Blender), game engine (Unity), audio editor (Audacity), and image editor (Photoshop).
+He Au Hou is a project of the Initiative for Indigenous Futures (IIF) Na 'Anae Mahiki, a collaboration of Kamehameha Schools, Concordia University of Montreal, and chosen participants from all across Hawai'i. Within a three-week period, our team were responsible for coming up with and creating a game with a focus on Hawaiian culture/storytelling. Along with brainstorming ideas, finalizing a theme/story, and creating the game, we also had to learn the software required, which included a 3D creation suite (Blender), game engine (Unity), audio editor (Audacity), and image editor (Adobe CC).
 
 Our final product, He Au Hou, is a 3D adventure game that focuses on storytelling and star navigation, two fundamental aspects of Hawaiian culture. In the game, you play as a space pilot trying to find your sister, lost in space. Along the way, you encounter Hawaiian gods and dieties and have to solve their puzzles. 
 
@@ -49,6 +49,7 @@ byte ADCRead(byte ch)
 ```
 
 You can learn more at the [Skins 5.0 Website](http://skins.abtec.org/skins5.0/).
+You can download the game [here](http://skins.abtec.org/skins5.0/game-download/).
 
 
 
