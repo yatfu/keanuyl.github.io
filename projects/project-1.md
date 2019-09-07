@@ -15,7 +15,7 @@ summary: My group created a point-and-click adventure game in Unity that focuses
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/HeAuHou0.png">
+  <img class="ui image" src="../images/HeAuHou0.PNG">
   <img class="ui image" src="../images/HeAuHou2.jpg">
   <img class="ui image" src="../images/HeAuHou1.png">
 </div>
