@@ -33,6 +33,4 @@ For this project, I was on the 3D art team, who was responsible for creating con
 You can learn more at the [Skins 5.0 Website](http://skins.abtec.org/skins5.0/).
 You can download the game [here](http://skins.abtec.org/skins5.0/game-download/).
 
-<a href="https://www.cnn.com" target="_blank">CNN</a>
-
 
