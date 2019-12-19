@@ -52,31 +52,51 @@
         "C",
         "Java",
         "Javascript"
+        "HTML"
+        "React"
+        "Semantic UI"
+        "Unity"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Git/GitHub",
-        "g++",
+        "Secure Shell",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2016-09-01",
+      "startDate": "",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [{"institution": Tanaka of Tokyo East, Waikiki"}
+  "work": [
+    {
+      "company": "Tanaka of Tokyo East, Waikiki",
+      "website": "https://www.tanakaoftokyo.com/en/main",
+      "position": "Busser/Waiter",
+      "startDate": "June 2017",
+      "endDate": "September 2017"
+      "summary": ""
+    },
+    {
+      "company": "GEN Korean BBQ, Ala Moana",
+      "website": "https://www.genkoreanbbq.com/",
+      "position": "Busser/Food Runner/Personal Runner",
+      "startDate": "May 2018",
+      "endDate": "June 2019"
+      "summary": ""
+    }
   ],
   "volunteer": [
   ],
