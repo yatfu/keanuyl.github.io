@@ -85,8 +85,8 @@
       "company": "Tanaka of Tokyo East, Waikiki",
       "website": "https://www.tanakaoftokyo.com/en/main",
       "position": "Busser/Waiter",
-      "startDate": "June 2017",
-      "endDate": "September 2017",
+      "startDate": "2017-06-01",
+      "endDate": "2017-09-12",
       "summary": "",
       "highlights": ""
     },
@@ -94,14 +94,11 @@
       "company": "GEN Korean BBQ, Ala Moana",
       "website": "https://www.genkoreanbbq.com/",
       "position": "Busser/Food Runner/Personal Runner",
-      "startDate": "May 2018",
-      "endDate": "June 2019",
+      "startDate": "2018-06-21",
+      "endDate": "2019-06-05",
       "summary": ""
     }
   ],
-  "volunteer": [
-  ],
-  "awards": [],
   "references": [
     {
       "name": "Available upon request",
