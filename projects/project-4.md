@@ -25,4 +25,6 @@ We wanted it to be easy for users to match with other users with the same intere
 
 My role was creating the schedule page, a page where the user could find events, called "study sessions". Study session organizers would be able to create/edit events, and users would be able to sign up for events using this page.
 
+This experience has taught me a lot about working with UI frameworks, specifically React's integrated Semantic UI. I learned a lot, mainly how to create components and design them to do it's intended purpose. My takeaway from this is that there can be so many possible ways to implement an element into a project, and none of them would be wrong. However, if something isn't done consistently, it can be confusing for others who are also working on the same thing.
+
 To learn more, here's the [link to our organization page.](https://studymatchs.github.io/)
