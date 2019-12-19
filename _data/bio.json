@@ -51,10 +51,10 @@
       "keywords": [
         "C",
         "Java",
-        "Javascript"
-        "HTML"
-        "React"
-        "Semantic UI"
+        "Javascript",
+        "HTML",
+        "React",
+        "Semantic UI",
         "Unity"
       ]
     },
@@ -64,7 +64,7 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
-        "Secure Shell",
+        "Secure Shell"
       ]
     }
   ],
@@ -86,15 +86,16 @@
       "website": "https://www.tanakaoftokyo.com/en/main",
       "position": "Busser/Waiter",
       "startDate": "June 2017",
-      "endDate": "September 2017"
-      "summary": ""
+      "endDate": "September 2017",
+      "summary": "",
+      "highlights": ""
     },
     {
       "company": "GEN Korean BBQ, Ala Moana",
       "website": "https://www.genkoreanbbq.com/",
       "position": "Busser/Food Runner/Personal Runner",
       "startDate": "May 2018",
-      "endDate": "June 2019"
+      "endDate": "June 2019",
       "summary": ""
     }
   ],
