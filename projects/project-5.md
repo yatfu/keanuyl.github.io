@@ -38,6 +38,14 @@ OctoScreen is an online tool that allows users to keep track of their COVID-19 s
 
 <img class="ui image" src="../images/OctoScreen/Status.PNG">
 
+<h1>Submit Vaccination Card</h1>
+
+<img class="ui image" src="../images/OctoScreen/VaccinationSubmit.PNG">
+
 <h1>Vaccination Status</h1>
 
 <img class="ui image" src="../images/OctoScreen/VaccinationCard.PNG">
+
+This project reminded me of how important skills such as communication and teamwork are. Throughout the project I mainly worked on the Vaccination Status page. 
+
+My experience working on this project with my team members was definitely a learning experience, as I learned a lot from my shortcomings in this project. One of the main issues I personally faced was coordinating with the rest of my group members, as I often found our work overlapping with each other. This in addition to failing to effectively communicate with my team members resulted in me scrapping a lot of my contributions because they were already implemented. I look to improve on these aspects going into the next projects with my team.
