@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/StudyMatchsLogoWithDescription.PNG
-title: Javascript & ES6 Bootcamp
-permalink: projects/freecodecamp
+title: Octo Screen
+permalink: projects/octoscreen
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-30
+date: 2021-10-14
 labels:
   - JavaScript
   - HTML
@@ -25,6 +25,10 @@ summary:
 <h1>What is Octo-Screen?</h1>
 
 OctoScreen is an online tool that allows users to keep track of their COVID-19 status through a check-in based system. Users can log in, check in by taking the sympmtoms questionaire, and then view their status along with all their previous check-ins. In addition, users can upload and view their vaccination card information, along with a picture of their vaccination card.
+
+<h1>Github Links</h1>
+
+[]
 
 
 Our goal for this project was to create a website where users could be able to form study groups, kind of like a social media platform. 
