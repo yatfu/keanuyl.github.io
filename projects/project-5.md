@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/StudyMatchsLogoWithDescription.PNG
+image: images/OctoScreen/logo.PNG
 title: Octo Screen
 permalink: projects/octoscreen
 # All dates must be YYYY-MM-DD format!
